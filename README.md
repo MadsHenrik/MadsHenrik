@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MadsHenrik
-- 👀 I’m interested in C# and Golang, love that shit
-- 🌱 I’m currently learning Unity Game Development you know
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web development and C#
+- 🌱 I’m currently learning more about web development
+- 💞️ I’m looking for a job
+- 📫 Reach me at MadsHenrikTonheim@hotmail.com
 
 <!---
 MadsHenrik/MadsHenrik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
