@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MadsHenrik
 - 👀 I’m interested in web development and C#
 - 🌱 I’m currently learning more about web development
-- 💞️ I’m looking for a job
 - 📫 Reach me at MadsHenrikTonheim@hotmail.com
 
 <!---
